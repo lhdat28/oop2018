@@ -49,7 +49,7 @@ class theMonkey{
         else {System.out.println(" :(((( ");}
     }
 }
-class the cat{
+class theCat{
     private String name;
     private int age;
     private String sex;
