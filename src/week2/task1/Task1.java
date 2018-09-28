@@ -32,6 +32,6 @@ public class Task1 {
         }
 
     }
-
+}
     
 
